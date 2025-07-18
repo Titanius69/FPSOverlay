@@ -1,6 +1,4 @@
 // fps_overlay.cpp
-// GPU-gyors�tott FPS overlay Win32 + Direct3D11 + Direct2D + DirectWrite
-
 #ifndef UNICODE
 #define UNICODE
 #endif
